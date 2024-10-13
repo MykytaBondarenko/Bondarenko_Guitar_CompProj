@@ -1,0 +1,51 @@
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.exe.config
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.exe
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.pdb
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmMain.resources
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.Properties.Resources.resources
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.exe
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.pdb
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmNext.resources
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frm3.resources
+C:\Users\Никита\Desktop\Bondarenko CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmTitul.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.exe.config
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.exe
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.pdb
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frm3.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmMain.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmNext.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmTitul.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.Properties.Resources.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.exe
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.pdb
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Interop.WMPLib.dll
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.ResolveComReference.cache
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.media.resources
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Interop.WMPLib.dll
+C:\Users\Никита\Desktop\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\AxInterop.WMPLib.dll
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.exe.config
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.exe
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Bondarenko CompProj.pdb
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\Interop.WMPLib.dll
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\bin\Debug\AxInterop.WMPLib.dll
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csprojAssemblyReference.cache
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Interop.WMPLib.dll
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\AxInterop.WMPLib.dll
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.ResolveComReference.cache
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frm3.resources
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmMain.resources
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmNext.resources
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.frmTitul.resources
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.media.resources
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko_CompProj.Properties.Resources.resources
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.GenerateResource.cache
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.csproj.CoreCompileInputs.cache
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.exe
+E:\LIT 21-22\Комп проект\Bondarenko_CompProj\Bondarenko CompProj\obj\Debug\Bondarenko CompProj.pdb
